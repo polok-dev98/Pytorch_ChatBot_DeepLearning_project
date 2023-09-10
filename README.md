@@ -8,4 +8,4 @@
 
 3.Then run the chat.py file to conversation with the bot .
 
-# Add more intents for make your bot better responses , this bot not able to ans a lot ,it's just a demo.
+Add more intents for make your bot better responses.
